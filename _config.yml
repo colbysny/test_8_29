@@ -1,4 +1,11 @@
-title: Colby Snyder
-logo: /assets/img/headshot_circle.png
-description: VIPER @ UPenn
 theme: jekyll-theme-minimal
+title: Colby Snyder
+logo: /assets/headshot_circle.png
+description: Chemical engineering, physics, and materials research @ UPenn
+
+# Add navigation links
+navigation:
+  - name: "Projects"
+    link: "/"
+  - name: "Publications"
+    link: "/portfolio/publications/"
